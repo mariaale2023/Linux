@@ -11,48 +11,15 @@
             "id": "001db2fd71d89a22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "IMG/Pasted image 20250224185033.png"
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250224185033"
             }
           }
         ]
-      },
-      {
-        "id": "f92bc8760c931245",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a1fa10c1b5aca1fb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "58daa48be13028b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Set up Git - Obsidian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set up Git - Obsidian"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "IMG/Pasted image 20250224185033.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Pasted image 20250224185033"
             }
           },
           {
@@ -143,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "IMG/Pasted image 20250224185033.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Pasted image 20250224185033"
             }
           },
           {
@@ -170,18 +137,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "IMG/Pasted image 20250224185033.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Pasted image 20250224185033"
+            }
+          },
+          {
+            "id": "5cd4f3b9d4b56dc1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,13 +171,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "001db2fd71d89a22",
+  "active": "5cd4f3b9d4b56dc1",
   "lastOpenFiles": [
     "Set up Git - Obsidian.md",
+    "IMG/Pasted image 20250224190640.png",
+    "IMG/Pasted image 20250224190627.png",
+    "IMG/Pasted image 20250224190611.png",
+    "IMG/Pasted image 20250224190527.png",
+    "IMG/Pasted image 20250224190507.png",
+    "IMG/Pasted image 20250224190405.png",
+    "Welcome.md",
     "IMG/Pasted image 20250224185104.png",
     "IMG/Pasted image 20250224185033.png",
     "IMG",
-    "Classes",
-    "Welcome.md"
+    "Classes"
   ]
 }

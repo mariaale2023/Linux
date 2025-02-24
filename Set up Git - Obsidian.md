@@ -24,7 +24,7 @@ git config --global user.email "your.email@example.com"
    cd path/to/your/obsidian/vault
    ```
 
-![](IMG/IMG%20-%20Set%20up%20Git%20-%20Obsidian/Pasted%20image%2020241114104518.png)
+
 
 3. Initialize a Git repository in the vault:
 
@@ -38,9 +38,9 @@ git config --global user.email "your.email@example.com"
    echo "/.obsidian/" >> .gitignore
    ```
 
-![](IMG/IMG%20-%20Set%20up%20Git%20-%20Obsidian/Pasted%20image%2020241114104546.png)
+![](IMG/Pasted%20image%2020250224190405.png)
 
-![](IMG/IMG%20-%20Set%20up%20Git%20-%20Obsidian/Pasted%20image%2020241114104655.png)
+![](IMG/Pasted%20image%2020250224190527.png)
 
 ### 4. Commit Changes to Your Repository
 1. **Add files** to the repository:
@@ -55,7 +55,7 @@ git config --global user.email "your.email@example.com"
    git commit -m "Initial commit"
    ```
 
-![](IMG/IMG%20-%20Set%20up%20Git%20-%20Obsidian/Pasted%20image%2020241114110000.png)
+![](IMG/Pasted%20image%2020250224190507.png)
 
 ### 5. Install the Obsidian Git Plugin (Optional)
 To automate Git tasks, you can install the Obsidian Git plugin, which provides automatic commits, push, and pull:
@@ -76,7 +76,7 @@ If you want to back up your vault online, set up a remote repository (e.g., on G
    git remote add origin https://github.com/yourusername/your-repo.git
    ```
 
-![](IMG/IMG%20-%20Set%20up%20Git%20-%20Obsidian/Pasted%20image%2020241114105940.png)
+![](IMG/Pasted%20image%2020250224190611.png)
 3. **Push** your local repository to the remote:
 
    ```bash
@@ -90,7 +90,7 @@ Now, you’ll have Git version control set up for your Obsidian vault, with the 
 ```r
 If you get any error like this:
 ```
-![](IMG/IMG%20-%20Set%20up%20Git%20-%20Obsidian/Pasted%20image%2020241114111056.png)
+![](IMG/Pasted%20image%2020250224190627.png)
 
 run :
 
@@ -110,4 +110,4 @@ git pull origin main --rebase
 	git push origin main
 ```
 
-![](IMG/IMG%20-%20Set%20up%20Git%20-%20Obsidian/Pasted%20image%2020241114111823.png)
+![](IMG/Pasted%20image%2020250224190640.png)
