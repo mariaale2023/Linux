@@ -7,7 +7,7 @@ If you haven’t already installed Git, download and install it:
 - **Mac:** Git is usually pre-installed, but you can download the latest version from [git-scm.com](https://git-scm.com/).
 - **Linux:** Use your package manager to install Git. For example: `sudo apt install git` on Ubuntu.
 
-![](IMG/Pasted%20image%2020250224185033.png)
+![](IMG/Set%20up%20Git/Pasted%20image%2020250224185033.png)
 ### 2. Configure Git
 After installing Git, set up your global username and email (needed for version control).
 
@@ -15,7 +15,7 @@ After installing Git, set up your global username and email (needed for version 
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
-![](IMG/Pasted%20image%2020250224185104.png)
+![](IMG/Set%20up%20Git/Pasted%20image%2020250224185104.png)
 ### 3. Initialize a Git Repository in Your Obsidian Vault
 1. Open a terminal (Command Prompt, Git Bash, Terminal, etc.).
 2. Navigate to your Obsidian vault folder.
@@ -38,9 +38,9 @@ git config --global user.email "your.email@example.com"
    echo "/.obsidian/" >> .gitignore
    ```
 
-![](IMG/Pasted%20image%2020250224190405.png)
+![](IMG/Set%20up%20Git/Pasted%20image%2020250224190405.png)
 
-![](IMG/Pasted%20image%2020250224190527.png)
+![](IMG/Set%20up%20Git/Pasted%20image%2020250224190527.png)
 
 ### 4. Commit Changes to Your Repository
 1. **Add files** to the repository:
@@ -55,7 +55,7 @@ git config --global user.email "your.email@example.com"
    git commit -m "Initial commit"
    ```
 
-![](IMG/Pasted%20image%2020250224190507.png)
+![](IMG/Set%20up%20Git/Pasted%20image%2020250224190507.png)
 
 ### 5. Install the Obsidian Git Plugin (Optional)
 To automate Git tasks, you can install the Obsidian Git plugin, which provides automatic commits, push, and pull:
@@ -76,7 +76,7 @@ If you want to back up your vault online, set up a remote repository (e.g., on G
    git remote add origin https://github.com/yourusername/your-repo.git
    ```
 
-![](IMG/Pasted%20image%2020250224190611.png)
+![](IMG/Set%20up%20Git/Pasted%20image%2020250224190611.png)
 3. **Push** your local repository to the remote:
 
    ```bash
@@ -90,7 +90,7 @@ Now, you’ll have Git version control set up for your Obsidian vault, with the 
 ```r
 If you get any error like this:
 ```
-![](IMG/Pasted%20image%2020250224190627.png)
+![](IMG/Set%20up%20Git/Pasted%20image%2020250224190627.png)
 
 run :
 
@@ -110,4 +110,4 @@ git pull origin main --rebase
 	git push origin main
 ```
 
-![](IMG/Pasted%20image%2020250224190640.png)
+![](IMG/Set%20up%20Git/Pasted%20image%2020250224190640.png)

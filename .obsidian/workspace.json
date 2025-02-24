@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "IMG/Pasted image 20250224185033.png"
+                "file": "IMG/Set up Git/Pasted image 20250224185033.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20250224185033"
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMG/Pasted image 20250224185033.png",
+                "file": "IMG/Set up Git/Pasted image 20250224185033.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMG/Pasted image 20250224185033.png",
+                "file": "IMG/Set up Git/Pasted image 20250224185033.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMG/Pasted image 20250224185033.png"
+                "file": "IMG/Set up Git/Pasted image 20250224185033.png"
               },
               "icon": "lucide-list",
               "title": "Outline of Pasted image 20250224185033"
@@ -171,18 +171,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cd4f3b9d4b56dc1",
+  "active": "2887fb8b20c69ff1",
   "lastOpenFiles": [
+    "IMG/Set up Git",
+    "Untitled",
+    "IMG/Untitled.md",
+    "IMG/Set up Git/Pasted image 20250224185033.png",
     "Set up Git - Obsidian.md",
-    "IMG/Pasted image 20250224190640.png",
-    "IMG/Pasted image 20250224190627.png",
-    "IMG/Pasted image 20250224190611.png",
-    "IMG/Pasted image 20250224190527.png",
-    "IMG/Pasted image 20250224190507.png",
-    "IMG/Pasted image 20250224190405.png",
+    "IMG/Set up Git/Pasted image 20250224190640.png",
+    "IMG/Set up Git/Pasted image 20250224190627.png",
+    "IMG/Set up Git/Pasted image 20250224190611.png",
+    "IMG/Set up Git/Pasted image 20250224190527.png",
+    "IMG/Set up Git/Pasted image 20250224190507.png",
+    "IMG/Set up Git/Pasted image 20250224190405.png",
     "Welcome.md",
-    "IMG/Pasted image 20250224185104.png",
-    "IMG/Pasted image 20250224185033.png",
+    "IMG/Set up Git/Pasted image 20250224185104.png",
     "IMG",
     "Classes"
   ]
