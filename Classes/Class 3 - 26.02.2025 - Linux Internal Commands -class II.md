@@ -1,5 +1,5 @@
 
-1) Armaan connect to the EC2 Linux instance
+1)  Armaan connect to the EC2 Linux instance
 ![](../IMG/IMG-%20Class%203%20-%2026.02.2025%20-%20Linux%20Internal%20Commands%20-class%20II/Pasted%20image%2020250226180349.png)![](../IMG/IMG-%20Class%203%20-%2026.02.2025%20-%20Linux%20Internal%20Commands%20-class%20II/Pasted%20image%2020250226180411.png)
 
 ![](../IMG/IMG-%20Class%203%20-%2026.02.2025%20-%20Linux%20Internal%20Commands%20-class%20II/Pasted%20image%2020250226181146.png)
@@ -25,7 +25,10 @@ ls
 
 ![](../IMG/IMG-%20Class%203%20-%2026.02.2025%20-%20Linux%20Internal%20Commands%20-class%20II/Pasted%20image%2020250226182531.png)
 
+```
 man find
+
+```
 ![](../IMG/IMG-%20Class%203%20-%2026.02.2025%20-%20Linux%20Internal%20Commands%20-class%20II/Pasted%20image%2020250226182512.png)
 
 ```

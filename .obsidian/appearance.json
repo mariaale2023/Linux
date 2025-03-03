@@ -1,4 +1,5 @@
 {
-  "theme": "moonstone",
-  "baseFontSizeAction": true
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "cssTheme": "Things"
 }
