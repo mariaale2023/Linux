@@ -37,14 +37,12 @@
             "id": "b9414c7b3016f1db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Classes/Class 3 - 26.02.2025 - Linux Internal Commands -class II.md",
-                "mode": "source",
-                "source": false
+                "file": "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303181157.png"
               },
-              "icon": "lucide-file",
-              "title": "Class 3 - 26.02.2025 - Linux Internal Commands -class II"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250303181157"
             }
           }
         ],
@@ -120,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Class 3 - 26.02.2025 - Linux Internal Commands -class II.md",
+                "file": "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303181157.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Class 3 - 26.02.2025 - Linux Internal Commands -class II"
+              "title": "Backlinks for Pasted image 20250303181157"
             }
           },
           {
@@ -139,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Class 3 - 26.02.2025 - Linux Internal Commands -class II.md",
+                "file": "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303181157.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Class 3 - 26.02.2025 - Linux Internal Commands -class II"
+              "title": "Outgoing links from Pasted image 20250303181157"
             }
           },
           {
@@ -166,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Class 3 - 26.02.2025 - Linux Internal Commands -class II.md"
+                "file": "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303181157.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of Class 3 - 26.02.2025 - Linux Internal Commands -class II"
+              "title": "Outline of Pasted image 20250303181157"
             }
           },
           {
@@ -200,21 +198,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cd4f3b9d4b56dc1",
+  "active": "2887fb8b20c69ff1",
   "lastOpenFiles": [
-    "Classes/Class 1 - 24.02.2025.md",
+    "Classes/Class 4 - 03.03.2025 - Linux - Operators and Operands Class I.md",
+    "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303192755.png",
+    "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303192014.png",
+    "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303191329.png",
+    "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303191321.png",
+    "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303191303.png",
+    "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303190319.png",
+    "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303185251.png",
+    "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303184840.png",
+    "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303184558.png",
+    "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303184525.png",
+    "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I",
     "Classes/Class 3 - 26.02.2025 - Linux Internal Commands -class II.md",
-    "IMG/Set up Git/Pasted image 20250224193504.png",
-    "IMG/IMG- Class 3 - 26.02.2025 - Linux Internal Commands -class II/Pasted image 20250226185747.png",
-    "IMG/IMG- Class 3 - 26.02.2025 - Linux Internal Commands -class II/Pasted image 20250226180349.png",
-    "IMG/IMG- Class 3 - 26.02.2025 - Linux Internal Commands -class II/Pasted image 20250226180411.png",
+    "Classes/Class 1 - 24.02.2025.md",
     "IMG/IMG- Class 3 - 26.02.2025 - Linux Internal Commands -class II",
-    "IMG/IMG- Class 3 - 26.02.2025 - Linux Internal Commands -class II/Pasted image 20250226193538.png",
-    "IMG/IMG- Class 3 - 26.02.2025 - Linux Internal Commands -class II/Pasted image 20250226193508.png",
-    "IMG/IMG- Class 3 - 26.02.2025 - Linux Internal Commands -class II/Pasted image 20250226193057.png",
-    "IMG/IMG- Class 3 - 26.02.2025 - Linux Internal Commands -class II/Pasted image 20250226192803.png",
-    "IMG/IMG- Class 3 - 26.02.2025 - Linux Internal Commands -class II/Pasted image 20250226192638.png",
-    "IMG/IMG- Class 3 - 26.02.2025 - Linux Internal Commands -class II/Pasted image 20250226192539.png",
     "IMG/Set up Git",
     "Untitled",
     "IMG/Untitled.md",
