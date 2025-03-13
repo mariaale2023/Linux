@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "Task 2.1 - Mount a EFS in 2 Linux EC2 Instance"
             }
+          },
+          {
+            "id": "e8e1c609acacc8ab",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "IMG/IMG - Task 2.2 - Mount a NFS in 2 Linux EC2 Instance/Pasted image 20250313204718.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250313204718"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 776.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,19 +229,20 @@
   },
   "active": "2887fb8b20c69ff1",
   "lastOpenFiles": [
-    "IMG/IMG- Task 2 .1- Mount a EFS in 2 Linux EC2 Instance/Pasted image 20250312221347.png",
+    "Exam-1/Task 2.2 - Mount a NFS in 2 Linux EC2 Instance.md",
     "Exam-1/Task 2.1 - Mount a EFS in 2 Linux EC2 Instance.md",
-    "IMG/Set up Git/Pasted image 20250224190627.png",
+    "IMG/IMG - Task 2.2 - Mount a NFS in 2 Linux EC2 Instance/Pasted image 20250313223625.png",
+    "IMG/IMG - Task 2.2 - Mount a NFS in 2 Linux EC2 Instance/Pasted image 20250313223445.png",
+    "IMG/IMG - Task 2.2 - Mount a NFS in 2 Linux EC2 Instance/Pasted image 20250313223419.png",
+    "IMG/IMG - Task 2.2 - Mount a NFS in 2 Linux EC2 Instance/Pasted image 20250313223320.png",
+    "IMG/IMG - Task 2.2 - Mount a NFS in 2 Linux EC2 Instance/Pasted image 20250313222749.png",
+    "IMG/IMG - Task 2.2 - Mount a NFS in 2 Linux EC2 Instance/Pasted image 20250313222728.png",
+    "IMG/IMG - Task 2.2 - Mount a NFS in 2 Linux EC2 Instance/Pasted image 20250313222624.png",
+    "IMG/IMG - Task 2.2 - Mount a NFS in 2 Linux EC2 Instance/Pasted image 20250313222544.png",
+    "IMG/IMG - Task 2.2 - Mount a NFS in 2 Linux EC2 Instance/Pasted image 20250313222432.png",
+    "IMG/IMG - Task 2.2 - Mount a NFS in 2 Linux EC2 Instance/Pasted image 20250313222251.png",
+    "IMG/IMG - Task 2.2 - Mount a NFS in 2 Linux EC2 Instance",
     "Exam-1",
-    "IMG/Set up Git/Pasted image 20250224190611.png",
-    "IMG/Set up Git/Pasted image 20250224190507.png",
-    "IMG/Set up Git/Pasted image 20250224185104.png",
-    "IMG/Set up Git/Pasted image 20250224185033.png",
-    "IMG/Set up Git/Pasted image 20250224190527.png",
-    "IMG/Set up Git/Pasted image 20250224190640.png",
-    "IMG/Set up Git/Pasted image 20250224193504.png",
-    "IMG/IMG- Class 7 - 06.03.2025/Pasted image 20250306182820.png",
-    "IMG/IMG- Class 7 - 06.03.2025/Pasted image 20250306182930.png",
     "Classes/Class 7 - 06.03.2025.md",
     "IMG/IMG- Class 7 - 06.03.2025",
     "IMG/IMG- Task 2 .1- Mount a EFS in 2 Linux EC2 Instance",
@@ -247,7 +260,6 @@
     "IMG/Set up Git",
     "IMG/Untitled.md",
     "Set up Git - Obsidian.md",
-    "Welcome.md",
-    "IMG"
+    "Welcome.md"
   ]
 }
