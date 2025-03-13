@@ -5,9 +5,9 @@ alias ll="ls -la --color=auto"
 ll
 ```
 This command creates a shortcut (alias) called `ll`. When you type `ll` in the terminal, it will run `ls -la --color=auto-------
-![](../IMG/Pasted%20image%2020250305181438.png)
+![](../IMG/IMG-%20Class%206%20-%2005.03.2025%20-%20Linux%20-%20Bash%20Scripting%20-%20Conditional%20Loops%20-%20Class%20III/Pasted%20image%2020250305181438.png)
 
-![](../IMG/Pasted%20image%2020250305181416.png)
+![](../IMG/IMG-%20Class%206%20-%2005.03.2025%20-%20Linux%20-%20Bash%20Scripting%20-%20Conditional%20Loops%20-%20Class%20III/Pasted%20image%2020250305181416.png)
 
 ## SLEEP
 The `sleep` command pauses the execution of a script or command for a specified amount of time.
@@ -23,7 +23,7 @@ sleep 1h # Pauses for 1 hour
 
 It makes the terminal **"wait"** before running the next command. Useful for delays in scripts or scheduling tasks. ⏳
 
-![](../IMG/Pasted%20image%2020250305181843.png)
+![](../IMG/IMG-%20Class%206%20-%2005.03.2025%20-%20Linux%20-%20Bash%20Scripting%20-%20Conditional%20Loops%20-%20Class%20III/Pasted%20image%2020250305181843.png)
 
 ## TAR
 
@@ -115,28 +115,28 @@ The `gzip` command is used to **compress files** in Linux, reducing their size. 
 - `gunzip` brings them **back to normal** 🔄
 - Useful for **saving space** and **speeding up file transfers** 🚀
 ---
-![](../IMG/Pasted%20image%2020250305183151.png)
+![](../IMG/IMG-%20Class%206%20-%2005.03.2025%20-%20Linux%20-%20Bash%20Scripting%20-%20Conditional%20Loops%20-%20Class%20III/Pasted%20image%2020250305183151.png)
 ## KILL
 
 !!!! Never use Kill, at least you know what you are doing >> kill process, 
-![](../IMG/Pasted%20image%2020250305183429.png)
+![](../IMG/IMG-%20Class%206%20-%2005.03.2025%20-%20Linux%20-%20Bash%20Scripting%20-%20Conditional%20Loops%20-%20Class%20III/Pasted%20image%2020250305183429.png)
 
 
 ## HISTORY
 
 return the history list of all command tat you already wrote
 
-![](../IMG/Pasted%20image%2020250305184017.png)
+![](../IMG/IMG-%20Class%206%20-%2005.03.2025%20-%20Linux%20-%20Bash%20Scripting%20-%20Conditional%20Loops%20-%20Class%20III/Pasted%20image%2020250305184017.png)
 
 
 ## LESS and MORE
 
 ## WC
 
-![](../IMG/Pasted%20image%2020250305184932.png)
+![](../IMG/IMG-%20Class%206%20-%2005.03.2025%20-%20Linux%20-%20Bash%20Scripting%20-%20Conditional%20Loops%20-%20Class%20III/Pasted%20image%2020250305184932.png)
 
 ## UNAME
 to get info about the system
 
-![](../IMG/Pasted%20image%2020250305185340.png)
+![](../IMG/IMG-%20Class%206%20-%2005.03.2025%20-%20Linux%20-%20Bash%20Scripting%20-%20Conditional%20Loops%20-%20Class%20III/Pasted%20image%2020250305185340.png)
 

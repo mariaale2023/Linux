@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "001db2fd71d89a22",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "IMG/Set up Git/Pasted image 20250224185033.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250224185033"
-            }
-          },
-          {
             "id": "261b6c521abacf26",
             "type": "leaf",
             "state": {
@@ -34,18 +22,6 @@
             }
           },
           {
-            "id": "b9414c7b3016f1db",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I/Pasted image 20250303181157.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250303181157"
-            }
-          },
-          {
             "id": "69be6c58f33b7e25",
             "type": "leaf",
             "state": {
@@ -57,6 +33,32 @@
               },
               "icon": "lucide-file",
               "title": "Class 7 - 06.03.2025"
+            }
+          },
+          {
+            "id": "503de6a9b99ed216",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "307ba15a069e6c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam-1/Task 2.1 - Mount a EFS in 2 Linux EC2 Instance.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task 2.1 - Mount a EFS in 2 Linux EC2 Instance"
             }
           }
         ],
@@ -200,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,21 +215,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69be6c58f33b7e25",
+  "active": "2887fb8b20c69ff1",
   "lastOpenFiles": [
-    "IMG/Pasted image 20250306183008.png",
-    "IMG/Pasted image 20250306182930.png",
-    "IMG/Pasted image 20250306182820.png",
-    "Classes/Class 6 - 05.03.2025 - Linux - Bash Scripting - Conditional Loops - Class III.md",
+    "IMG/IMG- Task 2 .1- Mount a EFS in 2 Linux EC2 Instance/Pasted image 20250312221347.png",
+    "Exam-1/Task 2.1 - Mount a EFS in 2 Linux EC2 Instance.md",
+    "IMG/Set up Git/Pasted image 20250224190627.png",
+    "Exam-1",
+    "IMG/Set up Git/Pasted image 20250224190611.png",
+    "IMG/Set up Git/Pasted image 20250224190507.png",
+    "IMG/Set up Git/Pasted image 20250224185104.png",
+    "IMG/Set up Git/Pasted image 20250224185033.png",
+    "IMG/Set up Git/Pasted image 20250224190527.png",
+    "IMG/Set up Git/Pasted image 20250224190640.png",
+    "IMG/Set up Git/Pasted image 20250224193504.png",
+    "IMG/IMG- Class 7 - 06.03.2025/Pasted image 20250306182820.png",
+    "IMG/IMG- Class 7 - 06.03.2025/Pasted image 20250306182930.png",
     "Classes/Class 7 - 06.03.2025.md",
-    "IMG/Pasted image 20250305185340.png",
-    "IMG/Pasted image 20250305184932.png",
-    "IMG/Pasted image 20250305184017.png",
-    "IMG/Pasted image 20250305183429.png",
-    "IMG/Pasted image 20250305183151.png",
-    "IMG/Pasted image 20250305181843.png",
-    "IMG/Pasted image 20250305181438.png",
-    "IMG/Pasted image 20250305181416.png",
+    "IMG/IMG- Class 7 - 06.03.2025",
+    "IMG/IMG- Task 2 .1- Mount a EFS in 2 Linux EC2 Instance",
+    "Classes/Class 1 - 24.02.2025.md",
+    "Untitled.md",
+    "Classes/Class 6 - 05.03.2025 - Linux - Bash Scripting - Conditional Loops - Class III.md",
     "IMG/Untitled 1",
     "IMG/IMG- Class 6 - 05.03.2025 - Linux - Bash Scripting - Conditional Loops - Class III",
     "Classes/Class 5 - 04.03.2025 - Linux - Introduction to Bash Scripting - Class II.md",
@@ -235,14 +243,11 @@
     "IMG/IMG- Class 5 - 04.03.2025 - Linux - Introduction to Bash Scripting - Class II",
     "IMG/IMG- Class 4 - 03.03.2025 - Linux - Operators and Operands Class I",
     "Classes/Class 3 - 26.02.2025 - Linux Internal Commands -class II.md",
-    "Classes/Class 1 - 24.02.2025.md",
     "IMG/IMG- Class 3 - 26.02.2025 - Linux Internal Commands -class II",
     "IMG/Set up Git",
-    "Untitled",
     "IMG/Untitled.md",
     "Set up Git - Obsidian.md",
     "Welcome.md",
-    "IMG",
-    "Classes"
+    "IMG"
   ]
 }
